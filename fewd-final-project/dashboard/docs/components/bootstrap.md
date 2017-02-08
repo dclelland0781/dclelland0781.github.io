@@ -2,28 +2,28 @@
 
 <p>Headings are available with the standard heading elements as well as utility classes (e.g., <code>.h1</code>).</p>
 
-{% example html %}
+
 <h1>h1. Bootstrap heading</h1>
 <h2>h2. Bootstrap heading</h2>
 <h3>h3. Bootstrap heading</h3>
 <h4>h4. Bootstrap heading</h4>
 <h5>h5. Bootstrap heading</h5>
 <h6>h6. Bootstrap heading</h6>
-{% endexample %}
+<!-- {% endexample %} -->
 
 <p>Blockquotes are automatically styled.</p>
 
-{% example html %}
+<!-- {% example html %} -->
 <blockquote>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
 </blockquote>
-{% endexample %}
+<!-- {% endexample %} -->
 
 <p>A special paragraph styles is available for large text:</p>
 
-{% example html %}
+<!-- {% example html %} -->
 <p class="lead">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.</p>
-{% endexample %}
+<!-- {% endexample %} -->
 
 <p>Utility classes for contextual text colors are also available.</p>
 
@@ -36,14 +36,14 @@
   <p class="text-danger">Donec ullamcorper nulla non metus auctor fringilla.</p>
 </div>
 
-{% highlight html %}
+<!-- {% highlight html %} -->
 <p class="text-muted">...</p>
 <p class="text-primary">...</p>
 <p class="text-success">...</p>
 <p class="text-info">...</p>
 <p class="text-warning">...</p>
 <p class="text-danger">...</p>
-{% endhighlight %}
+<!-- {% endhighlight %} -->
 
 
 
